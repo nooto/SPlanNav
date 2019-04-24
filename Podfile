@@ -4,14 +4,16 @@ platform :ios, '9.0'
 #use_modular_headers!
 inhibit_all_warnings!
 
-def commonkit
-    pod 'StepOHelper'
-#    pod 'StepOHelper', :path => '../StepOHelper'
-    pod 'MJRefresh'
-end
 
 target 'SPlanNav' do
-    commonkit
+  pod 'StepOHelper'
+  #    pod 'StepOHelper', :path => '../StepOHelper'
+  pod 'MJRefresh'
+#  pod  'AMap3DMap'
+  pod  'AMapLocation'
+  pod  'AMapSearch'
+  pod  'AMapNavi'
+
 end
 
 #end
