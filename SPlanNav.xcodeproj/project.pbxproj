@@ -3,77 +3,77 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 50;
 	objects = {
 
 /* Begin PBXBuildFile section */
-		141A5896C4372B941E557792 /* libPods-SPlanNav.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8CDC4BACC07C3D8CA21DCA33 /* libPods-SPlanNav.a */; };
-		E20EFFA22270AD25004E38E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E20EFFA12270AD25004E38E6 /* AppDelegate.m */; };
-		E20EFFA52270AD25004E38E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E20EFFA42270AD25004E38E6 /* ViewController.m */; };
-		E20EFFA82270AD25004E38E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E20EFFA62270AD25004E38E6 /* Main.storyboard */; };
-		E20EFFAA2270AD26004E38E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E20EFFA92270AD26004E38E6 /* Assets.xcassets */; };
-		E20EFFAD2270AD26004E38E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E20EFFAB2270AD26004E38E6 /* LaunchScreen.storyboard */; };
-		E20EFFB02270AD26004E38E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E20EFFAF2270AD26004E38E6 /* main.m */; };
-		E20EFFBA2270AD27004E38E6 /* SPlanNavTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E20EFFB92270AD27004E38E6 /* SPlanNavTests.m */; };
-		E20EFFC52270AD27004E38E6 /* SPlanNavUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E20EFFC42270AD27004E38E6 /* SPlanNavUITests.m */; };
+		56B41607874E0276ABAB60D4 /* libPods-SPlanNav.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F3ED111A7B55C99E62D277F /* libPods-SPlanNav.a */; };
+		E24F16632272F958003EAE39 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E24F16622272F958003EAE39 /* AppDelegate.m */; };
+		E24F16662272F958003EAE39 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E24F16652272F958003EAE39 /* ViewController.m */; };
+		E24F16692272F958003EAE39 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E24F16672272F958003EAE39 /* Main.storyboard */; };
+		E24F166B2272F959003EAE39 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E24F166A2272F959003EAE39 /* Assets.xcassets */; };
+		E24F166E2272F959003EAE39 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E24F166C2272F959003EAE39 /* LaunchScreen.storyboard */; };
+		E24F16712272F959003EAE39 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E24F16702272F959003EAE39 /* main.m */; };
+		E24F167B2272F959003EAE39 /* SPlanNavTests.m in Sources */ = {isa = PBXBuildFile; fileRef = E24F167A2272F959003EAE39 /* SPlanNavTests.m */; };
+		E24F16862272F959003EAE39 /* SPlanNavUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = E24F16852272F959003EAE39 /* SPlanNavUITests.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		E20EFFB62270AD27004E38E6 /* PBXContainerItemProxy */ = {
+		E24F16772272F959003EAE39 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E20EFF952270AD25004E38E6 /* Project object */;
+			containerPortal = E24F16562272F958003EAE39 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E20EFF9C2270AD25004E38E6;
+			remoteGlobalIDString = E24F165D2272F958003EAE39;
 			remoteInfo = SPlanNav;
 		};
-		E20EFFC12270AD27004E38E6 /* PBXContainerItemProxy */ = {
+		E24F16822272F959003EAE39 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = E20EFF952270AD25004E38E6 /* Project object */;
+			containerPortal = E24F16562272F958003EAE39 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E20EFF9C2270AD25004E38E6;
+			remoteGlobalIDString = E24F165D2272F958003EAE39;
 			remoteInfo = SPlanNav;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		41B2CB4FCC6BA3D5D431301B /* Pods-SPlanNav.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPlanNav.release.xcconfig"; path = "Target Support Files/Pods-SPlanNav/Pods-SPlanNav.release.xcconfig"; sourceTree = "<group>"; };
-		5F83F6F8591FF0C8209D23DE /* Pods-SPlanNav.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPlanNav.debug.xcconfig"; path = "Target Support Files/Pods-SPlanNav/Pods-SPlanNav.debug.xcconfig"; sourceTree = "<group>"; };
-		8CDC4BACC07C3D8CA21DCA33 /* libPods-SPlanNav.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SPlanNav.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		E20EFF9D2270AD25004E38E6 /* SPlanNav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPlanNav.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		E20EFFA02270AD25004E38E6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		E20EFFA12270AD25004E38E6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		E20EFFA32270AD25004E38E6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		E20EFFA42270AD25004E38E6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		E20EFFA72270AD25004E38E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		E20EFFA92270AD26004E38E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		E20EFFAC2270AD26004E38E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		E20EFFAE2270AD26004E38E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E20EFFAF2270AD26004E38E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		E20EFFB52270AD26004E38E6 /* SPlanNavTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPlanNavTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E20EFFB92270AD27004E38E6 /* SPlanNavTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPlanNavTests.m; sourceTree = "<group>"; };
-		E20EFFBB2270AD27004E38E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E20EFFC02270AD27004E38E6 /* SPlanNavUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPlanNavUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		E20EFFC42270AD27004E38E6 /* SPlanNavUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPlanNavUITests.m; sourceTree = "<group>"; };
-		E20EFFC62270AD27004E38E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2B662A6767C5DFE4F0C61C59 /* Pods-SPlanNav.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPlanNav.debug.xcconfig"; path = "Target Support Files/Pods-SPlanNav/Pods-SPlanNav.debug.xcconfig"; sourceTree = "<group>"; };
+		7F3ED111A7B55C99E62D277F /* libPods-SPlanNav.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-SPlanNav.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B676ECD4B1E9FC1915B85829 /* Pods-SPlanNav.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SPlanNav.release.xcconfig"; path = "Target Support Files/Pods-SPlanNav/Pods-SPlanNav.release.xcconfig"; sourceTree = "<group>"; };
+		E24F165E2272F958003EAE39 /* SPlanNav.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SPlanNav.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E24F16612272F958003EAE39 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		E24F16622272F958003EAE39 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		E24F16642272F958003EAE39 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		E24F16652272F958003EAE39 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		E24F16682272F958003EAE39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		E24F166A2272F959003EAE39 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E24F166D2272F959003EAE39 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		E24F166F2272F959003EAE39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E24F16702272F959003EAE39 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E24F16762272F959003EAE39 /* SPlanNavTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPlanNavTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E24F167A2272F959003EAE39 /* SPlanNavTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPlanNavTests.m; sourceTree = "<group>"; };
+		E24F167C2272F959003EAE39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E24F16812272F959003EAE39 /* SPlanNavUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SPlanNavUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E24F16852272F959003EAE39 /* SPlanNavUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SPlanNavUITests.m; sourceTree = "<group>"; };
+		E24F16872272F959003EAE39 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		E20EFF9A2270AD25004E38E6 /* Frameworks */ = {
+		E24F165B2272F958003EAE39 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				141A5896C4372B941E557792 /* libPods-SPlanNav.a in Frameworks */,
+				56B41607874E0276ABAB60D4 /* libPods-SPlanNav.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFB22270AD26004E38E6 /* Frameworks */ = {
+		E24F16732272F959003EAE39 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFBD2270AD27004E38E6 /* Frameworks */ = {
+		E24F167E2272F959003EAE39 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -83,75 +83,76 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		1F619578C6797B54596699C1 /* Pods */ = {
+		79B62E18301933227C56075D /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				5F83F6F8591FF0C8209D23DE /* Pods-SPlanNav.debug.xcconfig */,
-				41B2CB4FCC6BA3D5D431301B /* Pods-SPlanNav.release.xcconfig */,
-			);
-			path = Pods;
-			sourceTree = "<group>";
-		};
-		D97197D4A79CF4349DF767A6 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				8CDC4BACC07C3D8CA21DCA33 /* libPods-SPlanNav.a */,
+				7F3ED111A7B55C99E62D277F /* libPods-SPlanNav.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		E20EFF942270AD25004E38E6 = {
+		B0E269841BAFD241EEEA723E /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				E20EFF9F2270AD25004E38E6 /* SPlanNav */,
-				E20EFFB82270AD27004E38E6 /* SPlanNavTests */,
-				E20EFFC32270AD27004E38E6 /* SPlanNavUITests */,
-				E20EFF9E2270AD25004E38E6 /* Products */,
-				1F619578C6797B54596699C1 /* Pods */,
-				D97197D4A79CF4349DF767A6 /* Frameworks */,
+				2B662A6767C5DFE4F0C61C59 /* Pods-SPlanNav.debug.xcconfig */,
+				B676ECD4B1E9FC1915B85829 /* Pods-SPlanNav.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		E24F16552272F958003EAE39 = {
+			isa = PBXGroup;
+			children = (
+				E24F16602272F958003EAE39 /* SPlanNav */,
+				E24F16792272F959003EAE39 /* SPlanNavTests */,
+				E24F16842272F959003EAE39 /* SPlanNavUITests */,
+				E24F165F2272F958003EAE39 /* Products */,
+				B0E269841BAFD241EEEA723E /* Pods */,
+				79B62E18301933227C56075D /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
-		E20EFF9E2270AD25004E38E6 /* Products */ = {
+		E24F165F2272F958003EAE39 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E20EFF9D2270AD25004E38E6 /* SPlanNav.app */,
-				E20EFFB52270AD26004E38E6 /* SPlanNavTests.xctest */,
-				E20EFFC02270AD27004E38E6 /* SPlanNavUITests.xctest */,
+				E24F165E2272F958003EAE39 /* SPlanNav.app */,
+				E24F16762272F959003EAE39 /* SPlanNavTests.xctest */,
+				E24F16812272F959003EAE39 /* SPlanNavUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E20EFF9F2270AD25004E38E6 /* SPlanNav */ = {
+		E24F16602272F958003EAE39 /* SPlanNav */ = {
 			isa = PBXGroup;
 			children = (
-				E20EFFA02270AD25004E38E6 /* AppDelegate.h */,
-				E20EFFA12270AD25004E38E6 /* AppDelegate.m */,
-				E20EFFA32270AD25004E38E6 /* ViewController.h */,
-				E20EFFA42270AD25004E38E6 /* ViewController.m */,
-				E20EFFA62270AD25004E38E6 /* Main.storyboard */,
-				E20EFFA92270AD26004E38E6 /* Assets.xcassets */,
-				E20EFFAB2270AD26004E38E6 /* LaunchScreen.storyboard */,
-				E20EFFAE2270AD26004E38E6 /* Info.plist */,
-				E20EFFAF2270AD26004E38E6 /* main.m */,
+				E24F16612272F958003EAE39 /* AppDelegate.h */,
+				E24F16622272F958003EAE39 /* AppDelegate.m */,
+				E24F16642272F958003EAE39 /* ViewController.h */,
+				E24F16652272F958003EAE39 /* ViewController.m */,
+				E24F16672272F958003EAE39 /* Main.storyboard */,
+				E24F166A2272F959003EAE39 /* Assets.xcassets */,
+				E24F166C2272F959003EAE39 /* LaunchScreen.storyboard */,
+				E24F166F2272F959003EAE39 /* Info.plist */,
+				E24F16702272F959003EAE39 /* main.m */,
 			);
 			path = SPlanNav;
 			sourceTree = "<group>";
 		};
-		E20EFFB82270AD27004E38E6 /* SPlanNavTests */ = {
+		E24F16792272F959003EAE39 /* SPlanNavTests */ = {
 			isa = PBXGroup;
 			children = (
-				E20EFFB92270AD27004E38E6 /* SPlanNavTests.m */,
-				E20EFFBB2270AD27004E38E6 /* Info.plist */,
+				E24F167A2272F959003EAE39 /* SPlanNavTests.m */,
+				E24F167C2272F959003EAE39 /* Info.plist */,
 			);
 			path = SPlanNavTests;
 			sourceTree = "<group>";
 		};
-		E20EFFC32270AD27004E38E6 /* SPlanNavUITests */ = {
+		E24F16842272F959003EAE39 /* SPlanNavUITests */ = {
 			isa = PBXGroup;
 			children = (
-				E20EFFC42270AD27004E38E6 /* SPlanNavUITests.m */,
-				E20EFFC62270AD27004E38E6 /* Info.plist */,
+				E24F16852272F959003EAE39 /* SPlanNavUITests.m */,
+				E24F16872272F959003EAE39 /* Info.plist */,
 			);
 			path = SPlanNavUITests;
 			sourceTree = "<group>";
@@ -159,15 +160,15 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E20EFF9C2270AD25004E38E6 /* SPlanNav */ = {
+		E24F165D2272F958003EAE39 /* SPlanNav */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E20EFFC92270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNav" */;
+			buildConfigurationList = E24F168A2272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNav" */;
 			buildPhases = (
-				C56E2AD3EC99EE9CD0CA70DB /* [CP] Check Pods Manifest.lock */,
-				E20EFF992270AD25004E38E6 /* Sources */,
-				E20EFF9A2270AD25004E38E6 /* Frameworks */,
-				E20EFF9B2270AD25004E38E6 /* Resources */,
-				7AB8BD01A866F1BDFA5493A6 /* [CP] Copy Pods Resources */,
+				2FF28180667B26CC2FAFCF54 /* [CP] Check Pods Manifest.lock */,
+				E24F165A2272F958003EAE39 /* Sources */,
+				E24F165B2272F958003EAE39 /* Frameworks */,
+				E24F165C2272F958003EAE39 /* Resources */,
+				4D08F8BDA4429248DAF0FBDF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -175,68 +176,68 @@
 			);
 			name = SPlanNav;
 			productName = SPlanNav;
-			productReference = E20EFF9D2270AD25004E38E6 /* SPlanNav.app */;
+			productReference = E24F165E2272F958003EAE39 /* SPlanNav.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E20EFFB42270AD26004E38E6 /* SPlanNavTests */ = {
+		E24F16752272F959003EAE39 /* SPlanNavTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E20EFFCC2270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNavTests" */;
+			buildConfigurationList = E24F168D2272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNavTests" */;
 			buildPhases = (
-				E20EFFB12270AD26004E38E6 /* Sources */,
-				E20EFFB22270AD26004E38E6 /* Frameworks */,
-				E20EFFB32270AD26004E38E6 /* Resources */,
+				E24F16722272F959003EAE39 /* Sources */,
+				E24F16732272F959003EAE39 /* Frameworks */,
+				E24F16742272F959003EAE39 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E20EFFB72270AD27004E38E6 /* PBXTargetDependency */,
+				E24F16782272F959003EAE39 /* PBXTargetDependency */,
 			);
 			name = SPlanNavTests;
 			productName = SPlanNavTests;
-			productReference = E20EFFB52270AD26004E38E6 /* SPlanNavTests.xctest */;
+			productReference = E24F16762272F959003EAE39 /* SPlanNavTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E20EFFBF2270AD27004E38E6 /* SPlanNavUITests */ = {
+		E24F16802272F959003EAE39 /* SPlanNavUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E20EFFCF2270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNavUITests" */;
+			buildConfigurationList = E24F16902272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNavUITests" */;
 			buildPhases = (
-				E20EFFBC2270AD27004E38E6 /* Sources */,
-				E20EFFBD2270AD27004E38E6 /* Frameworks */,
-				E20EFFBE2270AD27004E38E6 /* Resources */,
+				E24F167D2272F959003EAE39 /* Sources */,
+				E24F167E2272F959003EAE39 /* Frameworks */,
+				E24F167F2272F959003EAE39 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				E20EFFC22270AD27004E38E6 /* PBXTargetDependency */,
+				E24F16832272F959003EAE39 /* PBXTargetDependency */,
 			);
 			name = SPlanNavUITests;
 			productName = SPlanNavUITests;
-			productReference = E20EFFC02270AD27004E38E6 /* SPlanNavUITests.xctest */;
+			productReference = E24F16812272F959003EAE39 /* SPlanNavUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		E20EFF952270AD25004E38E6 /* Project object */ = {
+		E24F16562272F958003EAE39 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 1020;
-				ORGANIZATIONNAME = GaoAng;
+				ORGANIZATIONNAME = Self.work;
 				TargetAttributes = {
-					E20EFF9C2270AD25004E38E6 = {
+					E24F165D2272F958003EAE39 = {
 						CreatedOnToolsVersion = 10.2;
 					};
-					E20EFFB42270AD26004E38E6 = {
+					E24F16752272F959003EAE39 = {
 						CreatedOnToolsVersion = 10.2;
-						TestTargetID = E20EFF9C2270AD25004E38E6;
+						TestTargetID = E24F165D2272F958003EAE39;
 					};
-					E20EFFBF2270AD27004E38E6 = {
+					E24F16802272F959003EAE39 = {
 						CreatedOnToolsVersion = 10.2;
-						TestTargetID = E20EFF9C2270AD25004E38E6;
+						TestTargetID = E24F165D2272F958003EAE39;
 					};
 				};
 			};
-			buildConfigurationList = E20EFF982270AD25004E38E6 /* Build configuration list for PBXProject "SPlanNav" */;
+			buildConfigurationList = E24F16592272F958003EAE39 /* Build configuration list for PBXProject "SPlanNav" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -244,37 +245,37 @@
 				en,
 				Base,
 			);
-			mainGroup = E20EFF942270AD25004E38E6;
-			productRefGroup = E20EFF9E2270AD25004E38E6 /* Products */;
+			mainGroup = E24F16552272F958003EAE39;
+			productRefGroup = E24F165F2272F958003EAE39 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E20EFF9C2270AD25004E38E6 /* SPlanNav */,
-				E20EFFB42270AD26004E38E6 /* SPlanNavTests */,
-				E20EFFBF2270AD27004E38E6 /* SPlanNavUITests */,
+				E24F165D2272F958003EAE39 /* SPlanNav */,
+				E24F16752272F959003EAE39 /* SPlanNavTests */,
+				E24F16802272F959003EAE39 /* SPlanNavUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		E20EFF9B2270AD25004E38E6 /* Resources */ = {
+		E24F165C2272F958003EAE39 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E20EFFAD2270AD26004E38E6 /* LaunchScreen.storyboard in Resources */,
-				E20EFFAA2270AD26004E38E6 /* Assets.xcassets in Resources */,
-				E20EFFA82270AD25004E38E6 /* Main.storyboard in Resources */,
+				E24F166E2272F959003EAE39 /* LaunchScreen.storyboard in Resources */,
+				E24F166B2272F959003EAE39 /* Assets.xcassets in Resources */,
+				E24F16692272F958003EAE39 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFB32270AD26004E38E6 /* Resources */ = {
+		E24F16742272F959003EAE39 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFBE2270AD27004E38E6 /* Resources */ = {
+		E24F167F2272F959003EAE39 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -284,24 +285,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		7AB8BD01A866F1BDFA5493A6 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SPlanNav/Pods-SPlanNav-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-SPlanNav/Pods-SPlanNav-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SPlanNav/Pods-SPlanNav-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		C56E2AD3EC99EE9CD0CA70DB /* [CP] Check Pods Manifest.lock */ = {
+		2FF28180667B26CC2FAFCF54 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -323,63 +307,89 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
+		4D08F8BDA4429248DAF0FBDF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-SPlanNav/Pods-SPlanNav-resources.sh",
+				"${PODS_ROOT}/AMap3DMap/MAMapKit.framework/AMap.bundle",
+				"${PODS_ROOT}/AMapNavi/AMapNaviKit.framework/AMapNavi.bundle",
+				"${PODS_ROOT}/MJRefresh/MJRefresh/MJRefresh.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AMap.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AMapNavi.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/MJRefresh.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-SPlanNav/Pods-SPlanNav-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 /* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		E20EFF992270AD25004E38E6 /* Sources */ = {
+		E24F165A2272F958003EAE39 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E20EFFA52270AD25004E38E6 /* ViewController.m in Sources */,
-				E20EFFB02270AD26004E38E6 /* main.m in Sources */,
-				E20EFFA22270AD25004E38E6 /* AppDelegate.m in Sources */,
+				E24F16662272F958003EAE39 /* ViewController.m in Sources */,
+				E24F16712272F959003EAE39 /* main.m in Sources */,
+				E24F16632272F958003EAE39 /* AppDelegate.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFB12270AD26004E38E6 /* Sources */ = {
+		E24F16722272F959003EAE39 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E20EFFBA2270AD27004E38E6 /* SPlanNavTests.m in Sources */,
+				E24F167B2272F959003EAE39 /* SPlanNavTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		E20EFFBC2270AD27004E38E6 /* Sources */ = {
+		E24F167D2272F959003EAE39 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E20EFFC52270AD27004E38E6 /* SPlanNavUITests.m in Sources */,
+				E24F16862272F959003EAE39 /* SPlanNavUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		E20EFFB72270AD27004E38E6 /* PBXTargetDependency */ = {
+		E24F16782272F959003EAE39 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E20EFF9C2270AD25004E38E6 /* SPlanNav */;
-			targetProxy = E20EFFB62270AD27004E38E6 /* PBXContainerItemProxy */;
+			target = E24F165D2272F958003EAE39 /* SPlanNav */;
+			targetProxy = E24F16772272F959003EAE39 /* PBXContainerItemProxy */;
 		};
-		E20EFFC22270AD27004E38E6 /* PBXTargetDependency */ = {
+		E24F16832272F959003EAE39 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E20EFF9C2270AD25004E38E6 /* SPlanNav */;
-			targetProxy = E20EFFC12270AD27004E38E6 /* PBXContainerItemProxy */;
+			target = E24F165D2272F958003EAE39 /* SPlanNav */;
+			targetProxy = E24F16822272F959003EAE39 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		E20EFFA62270AD25004E38E6 /* Main.storyboard */ = {
+		E24F16672272F958003EAE39 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E20EFFA72270AD25004E38E6 /* Base */,
+				E24F16682272F958003EAE39 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		E20EFFAB2270AD26004E38E6 /* LaunchScreen.storyboard */ = {
+		E24F166C2272F959003EAE39 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				E20EFFAC2270AD26004E38E6 /* Base */,
+				E24F166D2272F959003EAE39 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -387,7 +397,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		E20EFFC72270AD27004E38E6 /* Debug */ = {
+		E24F16882272F959003EAE39 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -446,7 +456,7 @@
 			};
 			name = Debug;
 		};
-		E20EFFC82270AD27004E38E6 /* Release */ = {
+		E24F16892272F959003EAE39 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -499,9 +509,9 @@
 			};
 			name = Release;
 		};
-		E20EFFCA2270AD27004E38E6 /* Debug */ = {
+		E24F168B2272F959003EAE39 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5F83F6F8591FF0C8209D23DE /* Pods-SPlanNav.debug.xcconfig */;
+			baseConfigurationReference = 2B662A6767C5DFE4F0C61C59 /* Pods-SPlanNav.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -510,15 +520,15 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNav;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNav;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		E20EFFCB2270AD27004E38E6 /* Release */ = {
+		E24F168C2272F959003EAE39 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 41B2CB4FCC6BA3D5D431301B /* Pods-SPlanNav.release.xcconfig */;
+			baseConfigurationReference = B676ECD4B1E9FC1915B85829 /* Pods-SPlanNav.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
@@ -527,13 +537,13 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNav;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNav;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
-		E20EFFCD2270AD27004E38E6 /* Debug */ = {
+		E24F168E2272F959003EAE39 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -544,14 +554,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNavTests;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNavTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SPlanNav.app/SPlanNav";
 			};
 			name = Debug;
 		};
-		E20EFFCE2270AD27004E38E6 /* Release */ = {
+		E24F168F2272F959003EAE39 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -562,14 +572,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNavTests;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNavTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SPlanNav.app/SPlanNav";
 			};
 			name = Release;
 		};
-		E20EFFD02270AD27004E38E6 /* Debug */ = {
+		E24F16912272F959003EAE39 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -579,14 +589,14 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNavUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNavUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = SPlanNav;
 			};
 			name = Debug;
 		};
-		E20EFFD12270AD27004E38E6 /* Release */ = {
+		E24F16922272F959003EAE39 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -596,7 +606,7 @@
 					"@executable_path/Frameworks",
 					"@loader_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.selfwork.PlanNavUITests;
+				PRODUCT_BUNDLE_IDENTIFIER = selfwork.company.SPlanNavUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TARGETED_DEVICE_FAMILY = "1,2";
 				TEST_TARGET_NAME = SPlanNav;
@@ -606,43 +616,43 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E20EFF982270AD25004E38E6 /* Build configuration list for PBXProject "SPlanNav" */ = {
+		E24F16592272F958003EAE39 /* Build configuration list for PBXProject "SPlanNav" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E20EFFC72270AD27004E38E6 /* Debug */,
-				E20EFFC82270AD27004E38E6 /* Release */,
+				E24F16882272F959003EAE39 /* Debug */,
+				E24F16892272F959003EAE39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E20EFFC92270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNav" */ = {
+		E24F168A2272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNav" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E20EFFCA2270AD27004E38E6 /* Debug */,
-				E20EFFCB2270AD27004E38E6 /* Release */,
+				E24F168B2272F959003EAE39 /* Debug */,
+				E24F168C2272F959003EAE39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E20EFFCC2270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNavTests" */ = {
+		E24F168D2272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNavTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E20EFFCD2270AD27004E38E6 /* Debug */,
-				E20EFFCE2270AD27004E38E6 /* Release */,
+				E24F168E2272F959003EAE39 /* Debug */,
+				E24F168F2272F959003EAE39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E20EFFCF2270AD27004E38E6 /* Build configuration list for PBXNativeTarget "SPlanNavUITests" */ = {
+		E24F16902272F959003EAE39 /* Build configuration list for PBXNativeTarget "SPlanNavUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				E20EFFD02270AD27004E38E6 /* Debug */,
-				E20EFFD12270AD27004E38E6 /* Release */,
+				E24F16912272F959003EAE39 /* Debug */,
+				E24F16922272F959003EAE39 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = E20EFF952270AD25004E38E6 /* Project object */;
+	rootObject = E24F16562272F958003EAE39 /* Project object */;
 }

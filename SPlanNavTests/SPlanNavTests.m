@@ -2,8 +2,8 @@
 //  SPlanNavTests.m
 //  SPlanNavTests
 //
-//  Created by GaoAng on 2019/4/24.
-//  Copyright © 2019 GaoAng. All rights reserved.
+//  Created by GaoAng on 2019/4/26.
+//  Copyright © 2019 Self.work. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
